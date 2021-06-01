@@ -25,4 +25,4 @@ g. LIST_PAYMENT
 
 h. DUE_DATE (TODO)
 
-i. SCHEDULE <Bill No> <Payment Date>
+i. SCHEDULE <Bill No> <Payment Date> (TODO)
